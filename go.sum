@@ -1,0 +1,4 @@
+github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815 h1:bWDMxwH3px2JBh6AyO7hdCn/PkvCZXii8TGj7sbtEbQ=
+github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815/go.mod h1:WwZ+bS3ebgob9U8Nd0kOddGdZWjyMGR8Wziv+TBNwSE=
+github.com/docopt/docopts v0.6.2 h1:7PWAMv1U3XhEx6RjzJq0dKTGYCbHu7Iz+dz3ZXkgYfg=
+github.com/docopt/docopts v0.6.2/go.mod h1:uKMblrgkv5Wk/+v8iLonLJnc0bhgmml/klBUa06PP6Y=
